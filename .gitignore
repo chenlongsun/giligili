@@ -1,0 +1,7 @@
+.env
+.idea
+docker-compose.yml
+fabfile.py
+go.sum
+debug
+docker-compose.yml.example
